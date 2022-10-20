@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ### Hi! I'm Giordano Mendes! Welcome to my profile ✌️
 
