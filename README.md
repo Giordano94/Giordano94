@@ -11,7 +11,7 @@
 
 <br>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giordano94&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giordano94&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br>
 ## 🖥️ Technologies
