@@ -1,5 +1,6 @@
 ### Hi! I'm Giordano Mendes! Welcome to my profile ✌️
-<br>
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giordanomendesbueno/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Giordano94)
@@ -11,10 +12,15 @@
 
 <br>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giordano94&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giordano94&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br>
-## 🖥️ Technologies
+## 🖥️ Technologies 
+
+<div style="display: inline_block">
+<img height="150em" align='right' src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif">
+</div>
+<br>
 
 <div style='display: inline_block' ><br/>
 <img aling='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -27,11 +33,6 @@
 <img aling='center' alt='Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 <img aling='center' alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
 </div>
-
-
-
-
-
 
 
 
